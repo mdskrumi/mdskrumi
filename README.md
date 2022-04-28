@@ -32,12 +32,8 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
             alt="mdskrumi's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi"
-            alt="mdskrumi's Github commit streak">
     </a>
 </div>
 
