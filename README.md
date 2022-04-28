@@ -28,11 +28,9 @@ Here are some ideas to get you started:
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=graywhite"
             alt="mdskrumi's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdskrumi&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="mdskrumi's wakatime last year stats">
-    </a>
 </div>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrumi)]
 
 ---
 
