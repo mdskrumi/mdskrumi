@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=graywhite&count_private=true"
+        <img width="30%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=graywhite&count_private=true"
             alt="mdskrumi's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=graywhite"
+        <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=graywhite"
             alt="mdskrumi's Github commit streak">
+    </a>
+      <a href="#">
+        <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
+            alt="mdskrumi's Github stats">
     </a>
 </div>
 
-<div align="center" style="text-align:center">
-    <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
-            alt="mdskrumi's Github stats">
-    </a>
-</div>
+
 
