@@ -20,21 +20,21 @@ Here are some ideas to get you started:
 ## **📊 Stats**
 <div align="left" style="text-align:center">
     <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=buefy&count_private=true"
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=buefy&count_private=true"
             alt="mdskrumi's Github stats">
     </a>
 </div>
 
 <div align="left" style="text-align:center">
     <a href="#">
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=cobalt"
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=cobalt"
             alt="mdskrumi's Github commit streak">
     </a>
 </div>
 
 <div align="left" style="text-align:center">
    <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact&hide_title=true"
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact&hide_title=true"
             alt="mdskrumi's Github stats">
     </a>
 </div>
