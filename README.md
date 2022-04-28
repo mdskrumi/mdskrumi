@@ -28,11 +28,13 @@ Here are some ideas to get you started:
         <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdskrumi&theme=graywhite"
             alt="mdskrumi's Github commit streak">
     </a>
-      <a href="#">
-        <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
+   
+</div>
+
+   <a href="#">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
             alt="mdskrumi's Github stats">
     </a>
-</div>
 
 
 
