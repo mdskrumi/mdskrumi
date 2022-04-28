@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
    <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact"
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi&layout=compact&hide_title=true"
             alt="mdskrumi's Github stats">
     </a>
 </div>
