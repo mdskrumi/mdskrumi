@@ -30,5 +30,14 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrumi)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi"
+            alt="mdskrumi's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrumi"
+            alt="mdskrumi's Github commit streak">
+    </a>
+</div>
+
