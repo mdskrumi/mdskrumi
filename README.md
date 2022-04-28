@@ -1,23 +1,13 @@
 # Md. Sakibul Alam 🧙‍♂️
 
-. 
 
-<!--
-**mdskrumi/mdskrumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![dev.to badge](https://img.shields.io/badge/-aboelkassem-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdskrumi)
+[![glitch badge](https://img.shields.io/badge/-mo.aboelkassem-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/mdskrumi)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdskrumi@gmail.com)](mailto:contact@mdskrumi.me)
+![](https://komarev.com/ghpvc/?username=mdskrumi&color=lightgrey&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## **📊 Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
