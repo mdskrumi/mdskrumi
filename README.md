@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## **📊 Stats**
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=cobalt&count_private=true"
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mdskrumi&show_icons=true&theme=buefy&count_private=true"
             alt="mdskrumi's Github stats">
     </a>
 </div>
