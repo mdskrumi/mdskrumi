@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Anything I Find Interesting**
 
-- 👨‍💻 All of my projects are available at [https://mdskrumi.netlify.app](https://mdskrumi.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mdskrumi.com](https://mdskrumi.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mdskrumi](https://medium.com/@mdskrumi)
 
