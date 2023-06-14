@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdskrumi@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/181Po7TYWKJP-FZYyrsGus0dEYYioW2PT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://mdskrumi.com/resume_mdskrumi.pdf)
 
 - ⚡ Fun fact **I love Bugs**
 
