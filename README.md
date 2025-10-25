@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **React Admin Panel Template**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Go Programming Language**
 
 - 👨‍💻 All of my projects are available at [https://mdskrumi.com](https://mdskrumi.com)
 
